@@ -1,0 +1,47 @@
+ul {
+    color: orange;
+  }
+  p {                              /* колір тексту */
+    color: red;
+    width: 500px;
+    border: 1px solid rgb(5, 118, 7);
+  }
+
+  html {
+    font-size: 30px; /* розмір заголовка*/
+    font-family: "Open Sans", sans-serif; /*  */
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;    /* центрівання заголовку */
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  html {
+    background-color: #045912;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #8716d2;
+    padding: 0px 40px 40px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
